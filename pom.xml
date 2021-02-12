@@ -4,7 +4,7 @@
 
     <groupId>org.appenders.logging</groupId>
     <artifactId>appenders-logging</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <name>Appenders Internal Logging</name>
     <description>Simple, pluggable logging used in Appenders Project(s)</description>
@@ -31,7 +31,7 @@
         <url>https://github.com/appenders/appenders-logging</url>
         <connection>scm:git:https://github.com/appenders/appenders-logging.git</connection>
         <developerConnection>scm:git:git@github.com:appenders/appenders-logging.git</developerConnection>
-        <tag>1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
