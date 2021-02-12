@@ -8,6 +8,9 @@
     <artifactId>appenders-logging</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>Appenders Internal Logging</name>
+    <description>Simple, pluggable logging used in Appenders Project(s)</description>
+
     <url>https://github.com/appenders/appenders-logging</url>
 
     <licenses>
